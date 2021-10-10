@@ -1,3 +1,14 @@
-.tile h1{
+.container h1{
     color: rgba(255, 0, 0, 0.507);
+}
+ body {
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+ #timeSetForm {
+     text-align: center;
+     width: 25%;
+}
+#timeSetForm input{
+    margin-left: 3px;
 }
