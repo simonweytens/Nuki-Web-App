@@ -516,7 +516,7 @@ eval("\n// @ts-ignore\ntry {\n    self['workbox:strategies:6.2.4'] && _();\n}\nc
   \*******************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var workbox_precaching__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! workbox-precaching */ \"./node_modules/workbox-precaching/index.mjs\");\n\r\n\r\n(0,workbox_precaching__WEBPACK_IMPORTED_MODULE_0__.precacheAndRoute)([{'revision':null,'url':'737889d4f7a1ed090d79.jpg'},{'revision':null,'url':'9dc109b5249c00d4d7ff.jpg'},{'revision':'247162be28a1468136b2deb3bde17ca6','url':'action.bundle.js'},{'revision':'651fdb4f95625908679e162c0fe19783','url':'index.bundle.js'},{'revision':'c268cde582e5c37ab099f2feb1f88fbb','url':'index.html'},{'revision':'9c118a418d87cd3ae5ec39e02da25b17','url':'reservation.bundle.js'}]);\r\n\n\n//# sourceURL=webpack://pushnotificatie-workbox/./src/sw.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var workbox_precaching__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! workbox-precaching */ \"./node_modules/workbox-precaching/index.mjs\");\n\r\n\r\n(0,workbox_precaching__WEBPACK_IMPORTED_MODULE_0__.precacheAndRoute)([{'revision':null,'url':'737889d4f7a1ed090d79.jpg'},{'revision':null,'url':'9dc109b5249c00d4d7ff.jpg'},{'revision':'8c50b616e41b6b6f30e8938174126554','url':'action.bundle.js'},{'revision':'19c5f9f76e8412230e8aad7529aff05c','url':'index.bundle.js'},{'revision':'c268cde582e5c37ab099f2feb1f88fbb','url':'index.html'},{'revision':'9c118a418d87cd3ae5ec39e02da25b17','url':'reservation.bundle.js'}]);\r\n\n\n//# sourceURL=webpack://pushnotificatie-workbox/./src/sw.js?");
 
 /***/ }),
 

@@ -3,11 +3,13 @@ const HtmlWebPackPlugin = require('html-webpack-plugin')
 const WorkboxPlugin = require('workbox-webpack-plugin')
 const WebpackPwaManifest = require('webpack-pwa-manifest')
 
+
+
 module.exports = {
     entry: {
         index: './src/index.js',
         action: './src/action.js',
-        reservation: './src/reservation.js'
+        reservation: './src/reservation.js',
     },
     output: {
         filename: '[name].bundle.js',

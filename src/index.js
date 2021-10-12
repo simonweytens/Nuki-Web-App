@@ -3,6 +3,7 @@ import Lock from './lock_icon.jpg'
 import UnLock from './unlock_icon.jpg'
 import lockAction from './action.js'
 import resComponent from './reservation.js'
+import loadCss  from './action.js'
 
 //Register Service-Worker
 if('serviceWorker' in navigator){
