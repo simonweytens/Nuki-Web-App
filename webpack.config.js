@@ -9,8 +9,7 @@ module.exports = {
     entry: {
         index: './src/index.js',
         action: './src/action.js',
-        reservation: './src/reservation.js',
-        notification: './src/notification.js'
+        reservation: './src/reservation.js'
     },
     output: {
         filename: '[name].bundle.js',
