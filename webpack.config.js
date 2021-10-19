@@ -10,6 +10,7 @@ module.exports = {
         index: './src/index.js',
         action: './src/action.js',
         reservation: './src/reservation.js',
+        notification: './src/notification.js'
     },
     output: {
         filename: '[name].bundle.js',
