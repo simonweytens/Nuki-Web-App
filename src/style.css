@@ -1,7 +1,10 @@
 .container h1{
     color: rgba(255, 0, 0, 0.507);
+}
+.container{
     width: 80%;
     margin: auto;
+    background-color: rgb(228, 228, 228);
 }
  body {
      font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -13,4 +16,16 @@
 }
 #timeSetForm input{
     margin-left: 3px;
+}
+
+button{
+    color: rgba(255, 0, 0, 0.507);
+}
+
+#timeSetForm{
+    color: rgba(255, 0, 0, 0.507);
+}
+
+#timeSetForm button{
+    color: rgba(255, 0, 0, 0.507);
 }
