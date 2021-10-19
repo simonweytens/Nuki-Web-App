@@ -1,0 +1,16 @@
+.container h1{
+    color: rgba(255, 0, 0, 0.507);
+    width: 80%;
+    margin: auto;
+}
+ body {
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+ #timeSetForm {
+     text-align: center;
+     width: 25%;
+}
+#timeSetForm input{
+    margin-left: 3px;
+}
